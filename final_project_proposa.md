@@ -35,6 +35,8 @@ Starting the week your project has been approved, you MAY turn in weekly updates
 
 If you want to keep doing the weekly assignments post-proposal, that's okay, too! I give the off-ramp option to allow you to focus your learning on the needs of your project in case that doesn't line up with the modules I've planned.
 
+***clarifying note: you can decide whether to use the off-ramp week-by-week***
+
 Attendance is still mandatory.
 
 ## THE PROPOSAL
