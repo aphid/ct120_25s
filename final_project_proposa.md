@@ -2,6 +2,8 @@
 
 ### DUE DATE: AT ANY POINT BEFORE MAY 23, earlier proposals are ENCOURAGED.
 
+#### Your final project proposal should be text, markdown, or html file in your git repository. The assignment turn-in (on canvas) is expecting a URL that should point to this file.
+
 ### The Project can be any or multiples of
 
 - A new thing of your choosing made from scratch
@@ -16,7 +18,7 @@
 - Have some conceptual basis. The project will be technical, but doesn’t need to be “about technology” (work about technology, whether critical or analytical, is valid, but only one of many approaches).
 - Involve you documenting your process as you work in some way.
 - Include a brief bibliography/mediagraphy of media (including software, images, sound, and so on) that inspired your project, or are referenced or incorporated into it. I
-  - Ai policy here
+  - If you find yourself using AI to troubleshoot, I expect this to be part of your documentation. AI should not be writing significant portions of your code. If your project is ABOUT AI, let's discuss this.
 
 ### Constraints
 
