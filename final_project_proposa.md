@@ -1,5 +1,7 @@
 ## FINAL PROJECT GUIDELINES
 
+### DUE DATE: AT ANY POINT BEFORE MAY 23, earlier proposals are ENCOURAGED.
+
 ### The Project can be any or multiples of
 
 - A new thing of your choosing made from scratch
